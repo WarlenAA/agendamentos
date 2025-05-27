@@ -38,6 +38,8 @@ agendamentos/
 
 O arquivo de instalação do aplicativo (APK) para celular `Android` está disponível na pasta `apk\app-release.apk (20.3MB)`.
 
+Obs: Abra o arquivo `apk\app-release.apk (20.3MB)` pelo navegador, no aplicativo ele não é suportado. 
+
 ✅ Como instalar o APK no seu celular Android:
 Atenção: Esse processo é seguro, mas o sistema pode alertar que o app é de fonte desconhecida.
 
