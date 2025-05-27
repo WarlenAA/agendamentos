@@ -57,7 +57,11 @@ Pronto! O aplicativo será instalado no seu celular.
 
 ---
 
+<img src="https://github.com/user-attachments/assets/8f6ecbb2-eedb-4fc8-a638-8d757cc743a7" width="300"/>
+<img src="https://github.com/user-attachments/assets/8cece343-1a50-4ece-8502-ceb602da58eb" width="300"/>
+<img src="https://github.com/user-attachments/assets/f01c4559-d6be-4d6b-b5e8-96f575c0bd76" width="300"/>
 
+---
 
 **Manual de Uso - Aplicativo de Agendamentos Simplificado**
 
