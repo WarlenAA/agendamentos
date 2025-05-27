@@ -36,7 +36,7 @@ agendamentos/
 
 📱 **Instalação do Aplicativo (APK)**
 
-O arquivo de instalação do aplicativo (APK) para celular `Android` está disponível na pasta `build\app\outputs\flutter-apk\app-release.apk (20.3MB)`.
+O arquivo de instalação do aplicativo (APK) para celular `Android` está disponível na pasta `apk\app-release.apk (20.3MB)`.
 
 ✅ Como instalar o APK no seu celular Android:
 Atenção: Esse processo é seguro, mas o sistema pode alertar que o app é de fonte desconhecida.
